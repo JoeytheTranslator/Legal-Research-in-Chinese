@@ -1,2 +1,4 @@
-This is where I will post the legal research I completed.
-I may also upload legal research completed by others if it’s OK to do it.
+知识因取用而丰盛。
+将逻辑严谨、可读性高的检索报告开源，更有利于国家未来的法治公开、透明、进步。
+每一份报告，都需要花费大量的时间思考、阅读、论证、查证。但是即便如此，个人的能力终究有限，难免存在错误或纰漏。如您发现本报告存在错误，或者有任何意见，欢迎联系我。
+如果本报告对您有用，也欢迎赞赏。
